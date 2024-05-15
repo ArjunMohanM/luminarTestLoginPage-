@@ -1,0 +1,41 @@
+.nav-logo-dimen {
+  width: 95px;
+  height: 40px;
+}
+.sign-up-btn {
+  border: 1px solid #0c62c5;
+  border-radius: 50px;
+  height: 50px;
+  color: #0c62c5;
+}
+.sign-up-btn:hover {
+  border: 1px solid #0c62c5;
+  color: #0c62c5;
+}
+.main-heading {
+  color: #b37062;
+}
+.input-bor {
+  border: 2px solid grey;
+}
+a{
+    text-decoration: none;
+}
+.msign-btn{
+    width: 50%;
+    background-color: #0c62c5;
+    color: white;
+    font-weight: 600;
+    border-radius: 50px;
+}
+.msign-btn:hover{
+     background-color: #0c62c5;
+    color: white;
+}
+.login-img{
+    height: 460px;
+    width: 70%;
+    position: absolute;
+    right: -12%;
+    top: 0%;
+}
